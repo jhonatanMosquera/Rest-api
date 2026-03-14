@@ -5,4 +5,4 @@ create table users(
     created_at timestamp default current_timetamp 
 )
 
-INSERT INTO USERS (NAME , EMAIL) VALUES ('JHONATAN','jhONATAN@GMAIL.COM')
+INSERT INTO USERS (NAME , EMAIL) VALUES ('JHONATAN','jhONATAN@GMAIL.COM'),('junior','Junior@gmail.com')
